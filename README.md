@@ -31,7 +31,7 @@ View a live [demo here](https://wave.devdojo.com), or deploy your own instance t
 To install Wave, you'll want to clone or download this repo:
 
 ```
-git clone https://github.com/thedevdojo/wave.git project_name
+git clone https://github.com/ipwnosx/Wave-2.0-SAAS-kit.git project_name
 ```
 
 Next, we can install Wave with these **4 simple steps**:
